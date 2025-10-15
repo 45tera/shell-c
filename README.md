@@ -38,8 +38,7 @@ This will start the manager.
     - [x] EXIT 
 
     
-- [x] Template implementation
-    - [x] template
+
 
 
 
